@@ -13,8 +13,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/>
+  <img src="https://chatgpt-image-hosting.s3.amazonaws.com/dbeaver.png" width="40px" title="DBeaver"/>
 </p>
-
 
 
 ### 📊 Most Used Languages
