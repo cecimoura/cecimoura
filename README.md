@@ -13,8 +13,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40px" title="DBeaver"/>
+  <img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/assets/dbeaver.png?raw=true" width="40px" title="DBeaver"/>
 </p>
+
 
 
 ### 📊 Most Used Languages
