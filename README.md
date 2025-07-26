@@ -1,14 +1,13 @@
-<h2>Here’s where the magic (and a few bugs) happen ✨🐞</h2>
+<h2>Hi there!</h2>
 
 <p>
-  Welcome to my Github profile! This is my space to share projects, learnings, and a little bit of my journey in technology.
+  Welcome to my Github profile! Here’s where the magic (and a few bugs) happen ✨🐞
+  This is my space to share projects, learnings, and a little bit of my journey in technology.
 </p>
 
 <h2>About me</h2>
-<p>
-💡 I enjoy challenges, especially those that call for creativity, like designing intuitive interfaces that simplify people’s lives.
-🧡 In my free time, I love diving into captivating books, exploring immersive games, and discovering cozy cafeterias.
-</p>
+<p>💡 I enjoy challenges, especially those that call for creativity, like designing intuitive interfaces that simplify people’s lives.</p>
+<p>🧡 In my free time, I love diving into captivating books, exploring immersive games, and discovering cozy cafeterias.</p>
 
 <h2>I code with</h2>
 <p>
