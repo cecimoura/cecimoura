@@ -1,9 +1,17 @@
-<h1 align="center">"Here’s where the magic (and a few bugs) happen ✨🐞"</h1>
+<h2 align="center">Here’s where the magic (and a few bugs) happen ✨🐞</h2>
 
+<p>
+  Welcome to my Github profile! This is my space to share projects, learnings, and a little bit of my journey in technology.
+</p>
 
-<h2 align="center">I code with</h2>
+<h2>About me</h2>
+<p>
+💡I enjoy challenges, especially those that require creativity, like solving a mystery within a game or creating an intuitive interface that improves people's lives.
+</p>
 
-<p align="center">
+<h2>I code with</h2>
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
@@ -11,18 +19,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 
-<h2 align="center">Tools I use</h2>
+<h2>Tools I use</h2>
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40px" title="DBeaver"/>
-
 </p>
 
 
