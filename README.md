@@ -1,3 +1,5 @@
+<h1 align="center">"Here’s where the magic (and a few bugs) happen ✨🐞"</h1>
+
 
 <h2 align="center">I code with</h2>
 
