@@ -1,8 +1,3 @@
-<h2 align="center">📊 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&langs_count=10&theme=radical"/>
-</p>
 
 <h2 align="center">I code with</h2>
 
@@ -13,6 +8,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&langs_count=10&theme=radical"/>
+</p>
+
 
 <h2 align="center">Tools I use</h2>
 
