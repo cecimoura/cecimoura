@@ -6,7 +6,7 @@
 </p>
 
 <h2>About me</h2>
-<p>💡 I enjoy challenges, especially those that call for creativity, like designing intuitive interfaces that simplify people’s lives.</p>
+<p>💡 I enjoy challenges, especially those that call for creativity, including designing intuitive interfaces that simplify people’s lives.</p>
 <p>🧡 In my free time, I love diving into captivating books, exploring immersive games, and discovering cozy cafeterias.</p>
 
 <h2>I code with</h2>
