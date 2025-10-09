@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&langs_count=10&theme=radical"/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&theme=radical)
 </p>
 
 <h2>Tools I use</h2>
