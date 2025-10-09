@@ -20,9 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
 </p>
 
-<p>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&theme=radical)
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecimoura&layout=compact&theme=dracula)
+
 
 <h2>Tools I use</h2>
 <p>
