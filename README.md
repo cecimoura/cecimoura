@@ -5,10 +5,6 @@
   This is my space to share projects, learnings, and a little bit of my journey in technology.
 </p>
 
-<h2>About me</h2>
-<p>💡 I enjoy challenges, especially those that call for creativity, including designing intuitive interfaces that simplify people’s lives.</p>
-<p>🧡 In my free time, I love diving into captivating books, exploring immersive games and discovering cozy cafeterias.</p>
-
 <h2>I code with</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
