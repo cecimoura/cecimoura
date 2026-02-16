@@ -1,7 +1,7 @@
 <h2>Hi there!</h2>
 
 <p>
-  Welcome to my Github profile! Here’s where the magic (and a few bugs) happen ✨🐞
+  Welcome to my Github profile!
   This is my space to share projects, learnings, and a little bit of my journey in technology.
 </p>
 
